@@ -30,6 +30,7 @@ This project includes features such as user login, deposit, withdrawal, and bala
 
 * Demo
 A working demo of the project has been recorded and shared on LinkedIn.
+Link : www.linkedin.com/in/elamaran-r-96b2a5311
 
 ---
 
